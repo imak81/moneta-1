@@ -1173,7 +1173,12 @@ void MapPort(bool)
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
-    {"monetatools.com", "54.232.218.200"},
+    {"seed.moneta.io", "52.88.101.6"},
+    {"seed1.moneta.io", "95.85.55.13"},
+    {"seed2.moneta.io", "188.166.45.174"},
+    {"seed3.moneta.io", "178.62.195.161"},
+    {"seed4.moneta.io", "188.166.92.128"},
+    {"seed5.moneta.io", "128.199.38.11"},
     {NULL, NULL}
 };
 
